@@ -61,5 +61,5 @@ This project is meant to showcase the evolution of language by analyzing linguis
 
 **📖 [Documentation]**
 &ensp;|&ensp;
-[Paper1]()
+[Decrypting Cryptic Crosswords](https://proceedings.neurips.cc/paper_files/paper/2021/file/5f1d3986fae10ed2994d14ecd89892d7-Paper.pdf)
 &ensp;|&ensp;
