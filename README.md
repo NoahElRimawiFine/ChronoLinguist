@@ -61,5 +61,16 @@ This project is meant to showcase the evolution of language by analyzing linguis
 
 **📖 [Documentation]**
 &ensp;|&ensp;
-[Paper1]()
+[Decrypting Cryptic Crosswords](https://proceedings.neurips.cc/paper_files/paper/2021/file/5f1d3986fae10ed2994d14ecd89892d7-Paper.pdf)
 &ensp;|&ensp;
+[Crossword Dataset for Simultaneous Learning and Reasoning](https://www.sciencedirect.com/science/article/pii/S0925231223007142)
+&ensp;|&ensp;
+[Cultural Evolution of Language](https://www.sciencedirect.com/science/article/pii/S2352250X15002225)
+&ensp;|&ensp;
+[Studying How the Past is Remembered](https://dl.acm.org/doi/pdf/10.1145/2063576.2063755)
+&ensp;|&ensp;
+[Computational Models of Language Evolution](https://www.jucs.org/jucs_24_10/computational_models_of_language/jucs_24_10_1345_1377_ferri.pdf)
+&ensp;|&ensp;
+[Computational methods and grammars in language evolution: a survey](https://link.springer.com/article/10.1007/s10462-015-9449-3)
+&ensp;|&ensp;
+
